@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "[DRAFT] This is a draft"
-categories: jekyll github tools
 ---
 
 Drafts don't have a date yet and reside in the `_drafts` folder.
