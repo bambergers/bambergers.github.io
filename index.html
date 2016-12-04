@@ -1,15 +1,12 @@
 ---
-layout: base
+layout: default
+title: The Bambergers
 ---
 
-{% for post in site.posts %}
-  <h2>
-    <a href="{{ post.url | prepend: site.baseurl  }}">
-      {{ post.title }}
-    </a>
-  </h2>
-  {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-  <a class="read-more" href="{{ post.url | prepend: site.baseurl  }}">
-    Read more ...
-  </a>
-{% endfor %}
+<!-- <h1>List of posts</h1> -->
+<dl class="posts">
+  {% for post in site.posts %}
+    <dt><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></dt>
+    <dd>{{ post.excerpt }}</dd><br/>
+  {% endfor %}
+</dl>
