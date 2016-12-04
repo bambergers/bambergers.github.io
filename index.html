@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+{% for post in site.posts %}
+  <h2>
+    <a href="{{ post.url | prepend: site.baseurl  }}">
+      {{ post.title }}
+    </a>
+  </h2>
+  {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+  <a class="read-more" href="{{ post.url | prepend: site.baseurl  }}">
+    Read more ...
+  </a>
+{% endfor %}

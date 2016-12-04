@@ -1,2 +1,10 @@
+# Site settings
+title: The Bambergers
+description: >
+  Our family blog.
 
-theme: jekyll-theme-tactile
+# Build settings
+url: "https://bambergers.github.io"
+baseurl: ""
+#theme: jekyll-theme-tactile
+markdown: kramdown

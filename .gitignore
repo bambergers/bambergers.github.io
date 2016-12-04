@@ -1,0 +1,7 @@
+.idea/
+_site/
+.sass-cache
+
+# Usually I'd love to have Gemfile.lock as part of my repository.For GH-pages,
+# however, it feels good to allow the server to always use the latest version.
+Gemfile.lock
