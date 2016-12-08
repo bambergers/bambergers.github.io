@@ -24,4 +24,4 @@ Photos will be posted in their native resolution, i.e. as created by our mobile 
 
 The pictures will also be geo-tagged, which allows to follow along with our travels.
 
-![]({{ site.url }}/photos/golden_pavilion.jpg)
+![]({{ site.url }}/photos/cape_town.jpg)
