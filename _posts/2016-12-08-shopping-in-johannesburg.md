@@ -14,8 +14,11 @@ A turducken - a turkey stuffed with a duck stuffed with a chicken.
 {% highlight markdown %}
 # Donnerstag, 8. Dezember
 ## Wir hatten ja nichts
+
 Der erste Einkauf in einem fremden Land ist immer ein Erlebnis. Natürlich wurden lokale Süßigkeiten und Creme Soda ebenso getestet, wie das allgegenwärtige Wildfleisch vom Kudu, Eland, Springbok oder Strauß.
+
 Außerdem in unserem Wagen landete ein Fiebersaft, eine Sitzerhöhung für das Auto, ein Reisebettchen und vieles mehr.
+
 Als wir schließlich zu den vertrauten Klängen von Johnny Cash im Auto zurück nach Hause fuhren, waren wir alle ziemlich geschafft aber zufrieden.
 {% endhighlight %}
 

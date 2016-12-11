@@ -10,6 +10,7 @@ Weeks of planning and preparation lie behind us. We finally made it to South Afr
 {% highlight markdown %}
 # Mittwoch, 7. Dezember
 ## Das geht ja gut los
+
 Auf dem ersten Abschnitt unserer Reise von Nürnberg nach Paris war die Sitzplatzreservierung fehlerhaft. Den Autositz, in dem unser Jüngster den Flug nach Johannesburg verbringen sollte, hatte man in Paris mitsamt dem anderen Gepäck im Laderaum des Flugzeugs verstaut. Bei der Landung in Südafrika haben sich beide Kinder erstmal übergeben. Und zu allem Überfluss war unser gebuchter Mietwagen nicht verfügbar, weshalb wir vorläufig auf ein kleineres Modell wechseln mussten.
 
 Trotzdem sind wir alle gut an unserem Reiseziel angekommen und haben unsere erste Nacht in der südlichen Hemisphäre in einem traumhaften Apartment verbringen dürfen. Wir sind bereit für zwei Monate voller Abenteuer!
