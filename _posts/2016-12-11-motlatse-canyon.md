@@ -3,7 +3,7 @@ layout: page
 title:  "Dec 11 - Motlatse Canyon"
 ---
 
-We set out to visit the Blyde River (also known as Motlatse) Canyon. Even though heavy mists on the mountain peaks made it hard to capture a full panorama picture of this natural wonder, what we took in was still absolutely breathtaking. The view glimpses of the Three Rondavels and the river below were enough to overcome the fact that we didn't get to see God's Window at all.
+We set out to visit the Blyde River (also known as Motlatse) Canyon. Even though heavy mists on the mountain peaks made it hard to capture a full panorama picture of this natural wonder, what we took in was still absolutely breathtaking. The few glimpses of the Three Rondavels and the river below were enough to overcome the fact that we didn't get to see God's Window at all.
 
 Fortunately, Bourke's Luck Potholes were a whole different story. These fascinating rock formations alone would've been worth the trip.
 
