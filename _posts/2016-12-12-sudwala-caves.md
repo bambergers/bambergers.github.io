@@ -22,9 +22,9 @@ Eigentlich wollten wir auch noch das Jane Goodall Institute Chimpanzee Eden besu
 Am Abend durften wir dafür die Bekanntschaft von ein paar wohlerzogenen Hütehunden machen, die unsere Kinder sofort ins Herz schlossen und uns die ganze Nacht hindurch bestens bewachten.
 {% endhighlight %}
 
-Stray animals on the road are a real threat. So far, we had to break for dogs, goats, and cows.
+The cave entrance looks like a scene from an Indiana Jones movie.
 
-![]({{ site.url }}/photos/suikerboskuur_farm/road_cattle.jpg)
+![]({{ site.url }}/photos/sabie/cave_entrance.jpg)
 
 Serene farm life in the middle of nowhere.
 
