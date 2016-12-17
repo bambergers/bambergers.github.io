@@ -12,7 +12,7 @@ In the evening, we finally arrived in a little town called Amsterdam. Our home f
 ![]({{ site.url }}/photos/sabie/sudwala_caves.jpg)
 
 {% highlight markdown %}
-# Montag, 12 Dezember
+# Montag, 12. Dezember
 ## Von Höhlen und Hunden
 
 Das erste Zwischenziel des heutigen Tages waren die 240 Millionen Jahre alten Sudwala Caves, eines der ältesten Höhlensysteme der Welt. Die Tour führte vorbei an imposanten Tropfsteinen und Unmengen von Fledermäusen.

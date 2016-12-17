@@ -10,7 +10,7 @@ Today's real nerve-wracker, however, was following Google's advice to hit a dirt
 ![]({{ site.url }}/photos/suikerboskuur_farm/lost_highway.jpg)
 
 {% highlight markdown %}
-# Dienstag, 13 Dezember
+# Dienstag, 13. Dezember
 ## Die kleinen Freuden
 
 Zwei Reisetage in Folge sind hart. Umso schöner war es unterwegs Bekanntschaft mit Heidi Hetzer zu schließen; eine Deutsche, die in ihrem Oldtimer die Welt umrundet.
