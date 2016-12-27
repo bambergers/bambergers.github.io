@@ -15,7 +15,7 @@ The house we rented was built in the 1930s, offers lots of space, a beautifully 
 
 Wie so oft war einer unserer Zwischenstopps auf dem Weg zurück an die Küste eine Mall. Einerseits haben große Einkaufszentren eine gute Auswahl an Restaurants, gleichzeitig bieten sie aber auch eine sichere Umgebung für unsere Kinder, um ihren Bewegungsdrang auszuleben.
 
-Nach den obligatorischen Pommes, wurde der Spielplatz in Angriff genommen. Und das im wahrsten Sinne des Wortes. Spielerisch kloppten sich Kinder unterschiedlichsten Alters mit den bereitgestellten Schaumstoffobjekten. Es ging ein bisschen zu wie beim Royal Rumble; und v.a. unser Jüngster mittendrin. Die größeren Mitstreiter nahmen aber sehr gut Rücksicht, so dass alle Beteiligten ohne Blessuren davonkamen.
+Nach den obligatorischen Pommes wurde der Spielplatz in Angriff genommen. Und das im wahrsten Sinne des Wortes. Spielerisch kloppten sich Kinder unterschiedlichsten Alters mit den bereitgestellten Schaumstoffobjekten. Es ging ein bisschen zu wie beim Royal Rumble; und v.a. unser Jüngster mittendrin. Die größeren Mitstreiter nahmen aber sehr gut Rücksicht, so dass alle Beteiligten ohne Blessuren davonkamen.
 {% endhighlight %}
 
 ![]({{ site.url }}/photos/umtentweni/playground.jpg)
