@@ -7,6 +7,8 @@ Possibly for the last time, we set out on a long (four hour) trip, from East Lon
 
 On our way, we passed many scenic river estuaries with beautiful (and incredibly expensive looking) villas and estates. Unfortunately, closer to P.E., we also drove by lots of areas which were littered with plastic and piles of rubble. Especially when considering the natural beauty we witnessed on our trip through South Africa so far, being faced with humanity's destructive side is a tough pill to swallow.
 
+Another gruesome sight were the many dead dogs beside the road. The streets were full of (living) cows, goats, sheep, as well as some chicken, pigs, and donkeys. For some reason, however, you got at least ten times as many dead dogs as there were live ones. Our best guess would be that other roadkill might have been collected and eaten, whereas no one got rid of the dog carcasses.
+
 Once checked in to our new apartment, we also visited the local First Car Rental office (again). Our car's motor vehicle license was about to expire end of December and after two different offices of theirs falsely promised to call us back with a feasible solution, the third one finally delivered by offering to either exchange our car or simply renew our license. We opted for the latter.
 
 ![]({{ site.url }}/photos/port_elizabeth/rubble.jpg)
