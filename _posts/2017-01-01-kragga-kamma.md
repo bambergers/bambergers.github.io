@@ -10,7 +10,7 @@ While driving our own car around the park grounds, we came close to free roaming
 ![]({{ site.url }}/photos/port_elizabeth/nyala.jpg)
 
 {% highlight markdown %}
-# Sonntag, 01. Januar
+# Sonntag, 1. Januar
 ## In den Sand gesetzt
 
 Selbstfahrsafari ist ein Erlebnis für die ganze Familie, inklusive deren Auto. Während die Insaßen in alle Richtungen Ausschau nach wilden Tieren halten, ächzen die Blechhaufen über holprige Wege und durch diverse Schlaglöcher. Die Fahrer sind ebenfalls besonders gefordert. Schließlich will man einerseits wieder heil nach Hause kommen, andererseits aber auf keinen Fall einen Geparden verpassen oder gar einen überfahren.
