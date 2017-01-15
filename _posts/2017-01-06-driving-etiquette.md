@@ -30,10 +30,12 @@ Yellow line driving is when people try to get out of the way of a faster vehicle
 
 Note: If you are the one overtaking, you are expected to flash your car's hazard lights once to signal "Thanks!" when you are past the other car. Most of them will respond by waving or flashing their headlights, basically saying "You're welcome!".
 
-![]({{ site.url }}/photos/road/yellow_line.jpg)
+![]({{ site.url }}/photos/road/yellow-line.jpg)
 
 Even if there's a restriction on passing other cars, everyone still does it. However, one could argue that they didn't really cross over to the right lane.
 
-![]({{ site.url }}/photos/road/passing_restriction.jpg)
+![]({{ site.url }}/photos/road/passing-restriction.jpg)
 
 Other than that, it's worth mentioning that many drivers supposedly don't own a license, which explains a lot of what you see on a daily basis (especially in more rural areas).
+
+![]({{ site.url }}/photos/road/people-cargo.jpg)
